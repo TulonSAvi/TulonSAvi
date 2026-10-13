@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tulonsavi.me/">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.tulonsavi.com/">Website</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/tulonsavi/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:avis.tulon@gmail.com">Email</a>
 </p>
@@ -36,22 +36,22 @@ Ten years in software, the last several focused almost entirely on e-commerce en
 
 ### Selected work
 
-**Multi-store Shopify platform** · 21 international storefronts
+**Multi-store Shopify platform** · 21 international storefronts<br>
 Product architecture rebuilt on Shopify metaobjects and metafields, replacing a paid bundle app. Per-store asset delivery, localization across 14 markets, VAT and GST configuration.
 
-**Cart drawer engine** · performance rewrite
+**Cart drawer engine** · performance rewrite<br>
 Replaced polling and duplicate document-wide MutationObservers with a single shared engine and scoped, debounced observers. Gift line item syncing, persistent upsell cards, iOS-specific fixes.
 
-**GiftDrop** · custom Shopify app
+**GiftDrop** · custom Shopify app<br>
 Automatic gift and bundle logic built to replace a paid third-party app. Embedded app, Theme App Extension, Shopify Functions, webhooks and Billing API.
 
-**Vantix** · premium Shopify OS 2.0 theme
+**Vantix** · premium Shopify OS 2.0 theme<br>
 Commercial theme built under DevPixels. Five design presets, with conversion and social proof features that replace roughly $224 a month of third-party apps.
 
-**Storefront CDN** · Cloudflare Pages
+**Storefront CDN** · Cloudflare Pages<br>
 Versioned JS and CSS organized per store and per product, served outside the Shopify theme so store logic ships without a theme deploy.
 
-**Post-purchase funnels** · CheckoutChamp
+**Post-purchase funnels** · CheckoutChamp<br>
 Standalone funnel architecture solving Apple Pay and Google Pay blocking post-purchase upsells, with server-side conversion tracking.
 
 Most of this lives in private repositories. Happy to walk through architecture and code in a conversation.
@@ -63,4 +63,5 @@ Working through AI and ML engineering fundamentals, and building out the public 
 <p align="center">
   <sub>Dhaka, Bangladesh · open to relocation</sub>
 </p>
+
 
